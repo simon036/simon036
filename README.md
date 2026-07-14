@@ -55,7 +55,7 @@ My personal portfolio showcasing my skills, experience, and completed projects.
 
 Feel free to reach out to me:
 
-- **Email:** [https://www.linkedin.com/in/simon-gichuki-590a99281?utm_source=share_via&utm_content=profile&utm_medium=member_android](mailto: gichukisimon036@gmail.com)
+- **Email:** (mailto: gichukisimon036@gmail.com)
 - **GitHub:** [github.com/simon036](https://github.com/simon036)
 - **LinkedIn:** [https://www.linkedin.com/in/simon-gichuki-590a99281?utm_source=share_via&utm_content=profile&utm_medium=member_android]()
 - **Portfolio:** [https://simon-gichuki-portfolio.vercel.app/](https://simon-gichuki-portfolio.vercel.app/)
